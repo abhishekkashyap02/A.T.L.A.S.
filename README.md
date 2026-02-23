@@ -1,31 +1,32 @@
-<div align="center">
+<div align="center" id="top">
 
-```
-   _   _____  _       _   _____
-  /_\ |_   _|| |     /_\ /  ___|
- / _ \  | |  | |__  / _ \\ `--.
-/_/ \_\ |_|  |____//_/ \_\`---' |
-```
+<br/>
 
-# 🛰️ A.T.L.A.S.
-## `Automated Transcription & Lecture Archival System`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=100&lines=A.T.L.A.S." alt="ATLAS" />
 
-### *"Why watch for hours, when you can read in minutes?"*
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=4000&pause=2000&color=C4B5FD&center=true&vCenter=true&width=700&height=40&lines=Automated+Transcription+%26+Lecture+Archival+System" alt="Subtitle" />
+
+<br/>
+
+*"Why watch for hours, when you can read in minutes?"*
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-a78bfa?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Google%20Colab%20ONLY-f59e0b?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Powered%20By-OpenCV%20%2B%20SSIM-38bdf8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-6ee7b7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-🟢%20ACTIVE-22d3ee?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PYTHON-3.8%2B-a78bfa?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLATFORM-GOOGLE%20COLAB%20ONLY-f59e0b?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWERED%20BY-OPENCV%20%2B%20SSIM-38bdf8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-6ee7b7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-%F0%9F%9F%A2%20ACTIVE-22d3ee?style=for-the-badge" />
 </p>
 
 <br/>
 
-> 🎓 Built for students. 🔬 Trusted by researchers. ⚡ Powered by AI.  
+> 🎓 Built for students. &nbsp; 🔬 Trusted by researchers. &nbsp; ⚡ Powered by AI.
+>
 > **A.T.L.A.S.** converts any YouTube video into a clean, timestamped PDF — automatically.
+
+<br/>
 
 </div>
 
@@ -50,7 +51,7 @@
 
 ---
 
-## 🟢 What is A.T.L.A.S.?
+## 🟢 〔 SYSTEM OVERVIEW 〕 — What is A.T.L.A.S.?
 
 **A.T.L.A.S.** is a Python-powered intelligent archival tool that takes any YouTube URL — be it a regular video, Short, live stream, or entire playlist — and converts it into a **beautifully structured, timestamped PDF document**.
 
@@ -69,7 +70,7 @@ Instead of watching a 3-hour lecture, you get a clean PDF with all the meaningfu
 
 ---
 
-## ✨ Key Features
+## ✨ 〔 CORE CAPABILITIES 〕 — Key Features
 
 | Feature | What It Does |
 |---|---|
@@ -86,7 +87,7 @@ Instead of watching a 3-hour lecture, you get a clean PDF with all the meaningfu
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ 〔 NEURAL BLUEPRINT 〕 — System Architecture
 
 ```mermaid
 flowchart TD
@@ -118,7 +119,7 @@ flowchart TD
 
 ---
 
-## 🎭 Use Case Diagram
+## 🎭 〔 MISSION PROFILES 〕 — Use Case Diagram
 
 ```mermaid
 flowchart LR
@@ -143,7 +144,7 @@ flowchart LR
 
 ---
 
-## 🔄 How It Works — Step by Step
+## 🔄 〔 OPERATIONAL SEQUENCE 〕 — How It Works
 
 ```
   ╔══════════════════════════════════════════════════════════════════╗
@@ -176,7 +177,7 @@ flowchart LR
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 〔 TECH MANIFEST 〕 — Stack & Libraries
 
 <table>
 <tr>
@@ -196,7 +197,7 @@ flowchart LR
 
 ---
 
-## 🚀 Getting Started
+## 🚀 〔 LAUNCH SEQUENCE 〕 — Getting Started
 
 ### Step 1 — Open Google Colab
 
@@ -215,7 +216,7 @@ Create a new cell and run:
 
 ### Step 3 — Paste the Code
 
-Copy the full `atlas.py` source code into the next cell.
+Copy the full A.T.L.A.S. source code into the next cell.
 
 ### Step 4 — Run & Provide URL
 
@@ -233,7 +234,7 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## 🔗 Supported URL Formats
+## 🔗 〔 SIGNAL FORMATS 〕 — Supported URL Types
 
 | URL Format | Type | Supported |
 |---|---|:---:|
@@ -245,7 +246,7 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## 🔭 Roadmap — Future Scope
+## 🔭 〔 FUTURE DIRECTIVES 〕 — Roadmap
 
 | Priority | Feature | Details |
 |:---:|---|---|
@@ -261,7 +262,7 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## 💡 Who Is This For?
+## 💡 〔 TARGET USERS 〕 — Who Is This For?
 
 **🎓 Students** — Turn a 2-hour lecture into a 30-page PDF before your exam. Every slide captured. Every second timestamped.
 
@@ -275,7 +276,7 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## ⚠️ Important Notes
+## ⚠️ 〔 SYSTEM CONSTRAINTS 〕 — Important Notes
 
 > **Performance is best with:**
 > - 🖥️ Clear screen-recording style videos (lectures, tutorials, presentations)
@@ -289,7 +290,7 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## 📊 System Status
+## 📊 〔 SYSTEM STATUS 〕
 
 ```
   ┌────────────────────────────────────────────────┐
@@ -306,19 +307,41 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 
 ---
 
-## 📄 License
-
-Released under the **MIT License** — free to use, modify, and distribute with attribution.
-
----
-
-## 👤 Author
+## 👤 〔 ARCHITECT 〕 — Author & Contact
 
 <div align="center">
 
 **Built with 💙 for every learner who said — *"I don't have time to watch this."***
 
-[![GitHub](https://img.shields.io/badge/GitHub-Contribute-a78bfa?style=for-the-badge&logo=github)](https://github.com)
+<br/>
+
+<table>
+<tr>
+<td align="center">
+👤 <b>Author</b><br/>
+Abhishek Kashyap
+</td>
+<td align="center">
+📧 <b>Email</b><br/>
+<a href="mailto:kashyapabhishek0212@gmail.com">kashyapabhishek0212@gmail.com</a>
+</td>
+<td align="center">
+🐙 <b>GitHub</b><br/>
+<a href="https://github.com/abhishekkashyap02">@abhishekkashyap02</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Project Repository:** [A.T.L.A.S. — Automated Transcription & Lecture Archival System](https://github.com/abhishekkashyap02)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@abhishekkashyap02-a78bfa?style=for-the-badge&logo=github)](https://github.com/abhishekkashyap02)
+[![Email](https://img.shields.io/badge/Email-kashyapabhishek0212%40gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyapabhishek0212@gmail.com)
+
+<br/>
 
 *Issues, ideas, and pull requests are always welcome.*
 
@@ -326,17 +349,24 @@ Released under the **MIT License** — free to use, modify, and distribute with 
 
 ---
 
+## 📄 〔 LEGAL 〕 — License
+
+Released under the **MIT License** — free to use, modify, and distribute with attribution.
+
+---
+
 <div align="center">
 
 <br/>
 
-### 🛰️ A.T.L.A.S.
-#### `Automated Transcription & Lecture Archival System`
-
-**Built for Learners · Powered by Python · Driven by Efficiency**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Built+for+Learners+%C2%B7+Powered+by+Python+%C2%B7+Driven+by+Efficiency" alt="Footer" />
 
 <br/>
 
 ⭐ *If A.T.L.A.S. saved you time, drop a star — it means the world!* ⭐
+
+<br/>
+
+[![Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-Click_Here-a78bfa?style=for-the-badge)](#top)
 
 </div>
