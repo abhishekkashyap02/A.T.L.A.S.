@@ -334,7 +334,7 @@ Abhishek Kashyap
 
 <br/>
 
-**Project Repository:** [A.T.L.A.S. — Automated Transcription & Lecture Archival System](https://github.com/abhishekkashyap02)
+**Project Repository:** [A.T.L.A.S. — Automated Transcription & Lecture Archival System](https://github.com/abhishekkashyap02/A.T.L.A.S.)
 
 <br/>
 
