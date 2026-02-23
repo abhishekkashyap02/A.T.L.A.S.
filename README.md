@@ -150,27 +150,27 @@ flowchart LR
   ╔══════════════════════════════════════════════════════════════════╗
   ║                                                                  ║
   ║   STEP 1 — INPUT                                                 ║
-  ║   You paste a YouTube URL. That's it.                           ║
-  ║                              ↓                                  ║
-  ║   STEP 2 — DOWNLOAD                                             ║
-  ║   yt-dlp fetches the best quality video stream silently.        ║
-  ║                              ↓                                  ║
-  ║   STEP 3 — FRAME SAMPLING                                       ║
-  ║   OpenCV reads the video and samples every N-th frame.          ║
-  ║                              ↓                                  ║
-  ║   STEP 4 — INTELLIGENT FILTERING                                ║
-  ║   SSIM compares each frame to the last. Too similar? Skipped.   ║
-  ║   Genuinely different scene? Saved.                             ║
-  ║                              ↓                                  ║
-  ║   STEP 5 — TIMESTAMP INSCRIPTION                                ║
-  ║   Each saved frame gets an HH:MM:SS timestamp burned in.        ║
-  ║   Text color is auto-picked for maximum contrast.               ║
-  ║                              ↓                                  ║
-  ║   STEP 6 — PDF ASSEMBLY                                         ║
-  ║   All frames stitched into a landscape PDF, one frame per page. ║
-  ║                              ↓                                  ║
-  ║   STEP 7 — DOWNLOAD                                             ║
-  ║   Your browser downloads the PDF named after the video.         ║
+  ║   You paste a YouTube URL. That's it.                            ║
+  ║                              ↓                                   ║
+  ║   STEP 2 — DOWNLOAD                                              ║
+  ║   yt-dlp fetches the best quality video stream silently.         ║
+  ║                              ↓                                   ║
+  ║   STEP 3 — FRAME SAMPLING                                        ║
+  ║   OpenCV reads the video and samples every N-th frame.           ║
+  ║                              ↓                                   ║
+  ║   STEP 4 — INTELLIGENT FILTERING                                 ║
+  ║   SSIM compares each frame to the last. Too similar? Skipped.    ║
+  ║   Genuinely different scene? Saved.                              ║
+  ║                              ↓                                   ║
+  ║   STEP 5 — TIMESTAMP INSCRIPTION                                 ║
+  ║   Each saved frame gets an HH:MM:SS timestamp burned in.         ║
+  ║   Text color is auto-picked for maximum contrast.                ║
+  ║                              ↓                                   ║
+  ║   STEP 6 — PDF ASSEMBLY                                          ║
+  ║   All frames stitched into a landscape PDF, one frame per page.  ║
+  ║                              ↓                                   ║
+  ║   STEP 7 — DOWNLOAD                                              ║ 
+  ║   Your browser downloads the PDF named after the video.          ║
   ║                                                                  ║
   ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -295,11 +295,11 @@ A.T.L.A.S. processes the video and your browser **automatically downloads** the 
 ```
   ┌────────────────────────────────────────────────┐
   │                                                │
-  │   🛰️  A.T.L.A.S.   v1.0.0                    │
+  │   🛰️  A.T.L.A.S.   v1.0.0    🛰️               │
   │                                                │
   │   Stage        →   Active Development          │
   │   Platform     →   Google Colab (Exclusive)    │
-  │   Stability    →   🟢 Stable                  │
+  │   Stability    →   🟢 Stable 🟢               │
   │   Interaction  →   Prompt-Based                │
   │                                                │
   └────────────────────────────────────────────────┘
